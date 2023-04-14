@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-alpine
 
-MAINTAINER lavanya eswaran
+MAINTAINER lavanya Flower
 EXPOSE 8080
 
 extend add for
